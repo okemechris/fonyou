@@ -1,0 +1,6 @@
+The var keyword was introduced in java 10 it is used for variable type inference
+e.g var count = 30
+I use var to keep code more concise especially when the type is complicated or long and to improve for loops
+and avoid repetition
+
+The val keyword is not a standard java keyword, but I have seen it used in kotlin to declare constants

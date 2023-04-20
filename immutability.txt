@@ -1,0 +1,7 @@
+Some benefits of immutability are
+
+Thread safety: Immutable objects are thread-safe, because their values cannot change after they are created. So no need for a synchronization or locking mechanisms when using them in multiple threads.
+Security: Immutable objects cannot be modified, so they cannot be tampered with by malicious code or by accident.
+Performance: Immutable objects can be cached more effectively, because their values cannot change.
+Easy Debugging: Immutable objects are easier to debug, because their state cannot change.
+Re-usability: Immutable objects can be reused across different parts of your code, because their state cannot change. This reduces code duplication and promotes code reuse.
